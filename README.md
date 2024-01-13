@@ -9,4 +9,14 @@
 # Atualmente sou programador da <a href = "https://spotmkt.com.br">Spot Mkt Digital</a>
 
 </div>
+<details>
+
+  
+  <summary><h2>Preview dos meus projetos</h2></summary>
+  <ul>
+    <li><h2>Dashboard Ecommerce</h2>
+      ![Preview do Site](https://caminho/para/sua/imagem.png)</li>
+  </ul>
+  
+</details>
 </br><hr></br>
