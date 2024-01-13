@@ -1,4 +1,4 @@
-# Seja bem vindo(a) ao meu repositório de projetos
+ # Seja bem vindo(a) ao meu repositório de projetos
 <hr>
 
 ## Aqui você verá todo o meu progresso como programador em forma de projetos!
@@ -14,8 +14,11 @@
   
   <summary><h2>Preview dos meus projetos</h2></summary>
   <ul>
-    <li><h2>Dashboard Ecommerce</h2>
-      ![Preview do Site](https://caminho/para/sua/imagem.png)</li>
+    <li>
+      <details>
+      <summary><h2>Dashboard Ecommerce</h2></summary>
+      <img src = "dashboard-ecommerce/previewdashboardecommerce.png">
+      </details>
   </ul>
   
 </details>
