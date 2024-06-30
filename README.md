@@ -8,7 +8,6 @@
 <img align="center" alt="ciel" src="https://i.pinimg.com/originals/3f/91/3d/3f913d5d11714a247098cc4b8d56dbb4.gif" /> </br>
 </div>
  
-# Atualmente sou programador da <a href = "https://spotmkt.com.br">Spot Mkt Digital</a>
 
 </div>
 <details>
